@@ -1,0 +1,5 @@
+0000001    1header----xx          !
+01    2detail----     !
+02    3detail----     !
+03    4detail----     !
+99    5       !
